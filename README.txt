@@ -1,12 +1,13 @@
 README- TRABALHO 3
+
 Os programas nesta pasta foram elaborados para a disciplina de linguagens de programação e Aplicações,
 do curso de Engenharia Mecânica da Escola de Engenharia de São Carlos - EESC/USP
 
 Autores:	
 1 Felipe de Almeida Vieira - Nº USP: 9312686 - GitHub User Name: felipeavieira
-2 Tiago Foloni Tessarolli - Nº USP: 9312794 - GitHub User Name: tiagoftessarolli
-3 Bruna Pereira de Almeida Dell'Avanzi - Nº USP: 9311556 - GitHub User Name: brunadellavanzi
-4 Luís Eduardo Manzoli Elias - Nº USP: 9312752 - GitHub User Name: duduelias
+2 Luís Eduardo Manzoli Elias - Nº USP: 9312752 - GitHub User Name: duduelias
+3 Tiago Foloni Tessarolli - Nº USP: 9312794 - GitHub User Name: tiagoftessarolli
+4 Bruna Pereira de Almeida Dell'Avanzi - Nº USP: 9311556 - GitHub User Name: brunadellavanzi
 5 Maurício Kubota - N° USP: 9312780 - GitHub User Name: maukbt
 
 1. Ambiente de trabalho e conteúdo
