@@ -95,7 +95,7 @@ void add ()
 {
     int k,m,n,troca;
     struct bloco *novo, *busca1, *busca2;
-    printf("Entre com o indice do valor, no formato (m n) sem os parenteses.\n");
+    printf("Entre com o indice do valor, no formato (i j) sem os parenteses.\n");
     scanf("%d %d",&m,&n);
     while(m<1||n<1||m>linha||n>coluna)
     {
@@ -269,7 +269,7 @@ int menu ()//menu principal.
     case 2:
         {
             int l,c;
-            printf("Entre com a posicao a ser buscada, no formato (m n), sem os parenteses.\n");
+            printf("Entre com a posicao a ser buscada, no formato (i j), sem os parenteses.\n");
             scanf("%d %d",&l,&c);
             while(l>linha||c>coluna)
             {
