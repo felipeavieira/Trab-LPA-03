@@ -1,4 +1,4 @@
-README- TRABALHO 3
+README- TRABALHO 3 - MATRIZES ESPARSAS
 
 Os programas nesta pasta foram elaborados para a disciplina de linguagens de programação e Aplicações,
 do curso de Engenharia Mecânica da Escola de Engenharia de São Carlos - EESC/USP
